@@ -1,2 +1,2 @@
 ### leetcode solution
-Coding execise
+Coding exercise
